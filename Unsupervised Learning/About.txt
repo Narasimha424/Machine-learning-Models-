@@ -1,1 +1,2 @@
 
+  Classify a given silhouette as one of three types of vehicle: a double decker bus, Chevrolet van, Saab 9000 and an Opel Manta 400 cars, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles. Here model trained with SVM by feeding raw data and results are compared with results of model that trained by applying dimensionality reduction technique - PCA.
