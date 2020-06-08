@@ -2,7 +2,7 @@
 This Repo contains code releated to below topics.
 
 Machine Learning: 
-Classification | Regression | Clustering | Decision tress| Random Forest | Hierarchical Clustering | K-Means Clustering | Featurization, model selection and hyperparameter tuning.
+Classification | Regression | Clustering | Decision tress | Random Forest | Hierarchical Clustering | K-Means Clustering | Featurization, model selection and hyperparameter tuning.
 
 
 Statistical Methods:
