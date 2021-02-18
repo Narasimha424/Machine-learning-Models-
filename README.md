@@ -1,10 +1,10 @@
 
-Machine-learning-Models-
+**This Repo contains code releated to below topics.**
 
-This Repo contains code releated to below topics.
-Statistical Methods: Predictive Analysis | Hypothesis Testing and confidence interval | ANOVA | Principle component analysis and Dimensionality reduction
 
-Machine Learning: Classification | Regression | Clustering | Decision tress | Random Forest | Hierarchical Clustering | K-Means Clustering | Featurization, model selection and hyperparameter tuning| Recommendation Systems
+**Statistical Methods**: Predictive Analysis | Hypothesis Testing and confidence interval | ANOVA | Principle component analysis and Dimensionality reduction
+
+**Machine Learning**: Classification | Regression | Clustering | Decision tress | Random Forest | Hierarchical Clustering | K-Means Clustering | Featurization, model selection and hyperparameter tuning| Recommendation Systems
 
 Deep Learning: Neural Networks | Computer Vision | Natural Language Processing |
 
