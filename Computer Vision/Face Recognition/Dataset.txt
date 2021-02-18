@@ -1,0 +1,6 @@
+Weights Data- vgg_face_weights.h5
+https://drive.google.com/file/d/1KeNf2VdIifcTFjT7gAl_uHYqbA0QqwlE/view?usp=sharing
+
+Data- Aligned Face Dataset from pintrestImage
+https://drive.google.com/file/d/1AuJ7yQlq3FhRFZy3MK2DwvtxtFgTDP2h/view?usp=sharing
+
